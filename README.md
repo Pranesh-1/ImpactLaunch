@@ -1,25 +1,25 @@
-# 🚀 ImpactLaunch
+#  ImpactLaunch
 
 **The AI-Powered Launchpad for Purpose-Driven Startups.**
 
 ImpactLaunch is a full-stack platform designed to help entrepreneurs go from "Rough Idea" to "Strategic Launch Plan" in seconds. It uses advanced AI (Llama 3 via Groq) to generate go-to-market strategies, SEO tags, and viral social content, all wrapped in a stunning, dynamically themed UI.
 
-## ✨ Key Features
+##  Key Features
 
-*   **🧠 AI Growth Strategist**: Generates specific Go-To-Market strategies, Differentiators, and Keywords.
-*   **🎨 Dynamic AI Theming**: Enter a "Brand Vibe" (e.g., *Cyberpunk*, *Eco-Friendly*) and the UI adapts its colors instantly.
-*   **📈 Growth Stack**: Auto-generates Google-optimized **SEO Titles/Descriptions** and **GA4 Analytics Event** plans.
-*   **⚡ Real-Time Automation**: Submits the full launch plan to your custom **Webhook** (Zapier, Slack, Make).
-*   **📱 Modern UI**: Glassmorphism design, official SVG social icons, and Framer Motion animations.
-*   **🛡️ Production Ready**: Built with robust error handling, mock fallbacks, and environment variable configuration.
+*   ** AI Growth Strategist**: Generates specific Go-To-Market strategies, Differentiators, and Keywords.
+*   ** Dynamic AI Theming**: Enter a "Brand Vibe" (e.g., *Cyberpunk*, *Eco-Friendly*) and the UI adapts its colors instantly.
+*   ** Growth Stack**: Auto-generates Google-optimized **SEO Titles/Descriptions** and **GA4 Analytics Event** plans.
+*   ** Real-Time Automation**: Submits the full launch plan to your custom **Webhook** (Zapier, Slack, Make).
+*   ** Modern UI**: Glassmorphism design, official SVG social icons, and Framer Motion animations.
+*   ** Production Ready**: Built with robust error handling, mock fallbacks, and environment variable configuration.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 *   **Frontend**: React (Vite), TailwindCSS, Framer Motion, Lucide React, html2canvas.
 *   **Backend**: Node.js, Express, Groq SDK (Llama 3), Axios.
 *   **AI**: Llama 3.3-70b (via Groq Cloud) for lightning-fast, high-quality responses.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 *   Node.js (v18+)
@@ -60,7 +60,7 @@ npm run dev
 
 Visit `http://localhost:5173` to launch the app!
 
-## 📦 Deployment
+##  Deployment
 
 ### Backend (Render/Railway)
 1.  Deploy the `server` folder.
@@ -76,3 +76,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 Built with ❤️ for the **People, Planet, Profit** mission.
+
