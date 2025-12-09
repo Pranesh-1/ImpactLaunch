@@ -1,5 +1,7 @@
 #  ImpactLaunch
 
+**Live Demo:** [Launch App ↗](https://impactlaunch-5872jmr3d-praneshs-projects-b9bdd6ff.vercel.app/)
+
 **The AI-Powered Launchpad for Purpose-Driven Startups.**
 
 ImpactLaunch is a full-stack platform designed to help entrepreneurs go from "Rough Idea" to "Strategic Launch Plan" in seconds. It uses advanced AI (Llama 3 via Groq) to generate go-to-market strategies, SEO tags, and viral social content, all wrapped in a stunning, dynamically themed UI.
@@ -76,4 +78,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 Built with ❤️ for the **People, Planet, Profit** mission.
+
 
